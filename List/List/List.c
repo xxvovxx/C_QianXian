@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 //C语言实现单链表的创建以及插入数据
+//链表知识还有好多啊，时间的确不多了
 
 typedef struct SingleList    //结构体定义
 {
